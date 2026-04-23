@@ -1,1 +1,1 @@
-function test() { console.log("Hackathon Friction Test 2"); }
+function test() { console.log("Hackathon Friction Test 4"); }
